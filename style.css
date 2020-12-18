@@ -19,6 +19,8 @@ hr{
 .text-area{
     display: block;
     /* max-width: 900px; */
+    font-size: x-large;
+    font-style: italic;
     width: 60%;
     height: 10vh;
     padding: 2rem;
@@ -50,6 +52,7 @@ hr{
     margin-bottom: 2rem;
     margin-top:2rem ;
     background-color: var(--light-green);
+    font-size: x-large;
 
 }
 .output-text{
